@@ -1,0 +1,7 @@
+{
+  "name": "Aura Health",
+  "description": "A next-generation medical platform featuring AI-powered symptom analysis, seamless appointment booking, and a pristine, accessible user interface designed for the future of healthcare.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
